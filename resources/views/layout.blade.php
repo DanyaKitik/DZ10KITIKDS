@@ -33,10 +33,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-7 col-md-12 col-pad-0 form-section">
-                @yield('login')
-                @yield('register')
-                @yield('forgot-password')
-            </div>
+                @yield('content')
+                </div>
             <div class="col-lg-5 col-md-12 col-pad-0 bg-img none-992">
                 <div class="informeson">
                     <div class="btn-section">

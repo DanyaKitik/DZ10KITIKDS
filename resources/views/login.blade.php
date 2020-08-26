@@ -4,7 +4,7 @@
     Login
 @endsection
 
-@section('login')
+@section('content')
 <div class="login-inner-form">
     <div class="details">
         <a href="#">

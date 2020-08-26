@@ -4,7 +4,7 @@
     Register
 @endsection
 
-@section('register')
+@section('content')
             <div class="col-lg-7 col-md-12 col-pad-0 form-section">
                 <div class="login-inner-form">
                     <div class="details">
